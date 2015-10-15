@@ -1,0 +1,46 @@
+﻿<Properties StartupItem="Droid\finalProject.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Xamarin_Android_API_15" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid\SqliteDroid.cs">
+    <Files>
+      <File FileName="finalProject\helloPage.xaml" Line="1" Column="1" />
+      <File FileName="finalProject\calenderPage.xaml" Line="1" Column="1" />
+      <File FileName="finalProject\contactPage.xaml" Line="1" Column="1" />
+      <File FileName="c:\Users\nick\Downloads\finalProjectData\finalProject\helloPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="finalProjectData\ViewModel\EmployeeDetailViewModel.cs" Line="1" Column="1" />
+      <File FileName="finalProjectData\database\EmployeeDataBase.cs" Line="1" Column="1" />
+      <File FileName="finalProjectData\Model\employees.cs" Line="1" Column="1" />
+      <File FileName="finalProjectData\ViewModel\EmployeeListViewModel.cs" Line="1" Column="1" />
+      <File FileName="finalProjectData\Interfaces\IMyNavigationServices.cs" Line="1" Column="1" />
+      <File FileName="finalProjectData\Interfaces\IPageLifeCycleEvents.cs" Line="1" Column="1" />
+      <File FileName="finalProjectData\Interfaces\ISqlite.cs" Line="1" Column="1" />
+      <File FileName="finalProject\locationPage.xaml" Line="1" Column="1" />
+      <File FileName="finalProject\loginPage.xaml" Line="1" Column="1" />
+      <File FileName="finalProject\loginPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="finalProject\calenderPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="finalProject\staffPage.xaml" Line="1" Column="1" />
+      <File FileName="finalProject\staffPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="finalProject\locationPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="finalProject\finalProject.cs" Line="1" Column="1" />
+      <File FileName="finalProject\packages.config" Line="1" Column="1" />
+      <File FileName="finalProject\testPage.xaml" Line="1" Column="1" />
+      <File FileName="finalProject\testPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="finalProject\NavigationService.cs" Line="1" Column="1" />
+      <File FileName="Droid\SqliteDroid.cs" Line="15" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\nick\Downloads\finalProjectData\finalProjectData\database\EmployeeDataBase.cs" line="28" column="1" />
+      <Breakpoint file="C:\Users\nick\Downloads\finalProjectData\finalProjectData\database\EmployeeDataBase.cs" line="30" column="1" />
+      <Breakpoint file="C:\Users\nick\Downloads\finalProjectData\finalProjectData\ViewModel\EmployeeListViewModel.cs" line="42" column="1" />
+      <Breakpoint file="C:\Users\nick\Downloads\finalProjectData\finalProjectData\ViewModel\EmployeeListViewModel.cs" line="44" column="1" />
+      <Breakpoint file="C:\Users\nick\Downloads\finalProjectData\finalProject\staffPage.xaml.cs" line="15" column="48" />
+      <Breakpoint file="C:\Users\nick\Downloads\finalProjectData\finalProjectData\database\EmployeeDataBase.cs" line="12" column="1" />
+      <Breakpoint file="C:\Users\nick\Downloads\finalProjectData\finalProjectData\database\EmployeeDataBase.cs" line="13" column="1" />
+      <Breakpoint file="C:\Users\nick\Downloads\finalProjectData\finalProject\staffPage.xaml.cs" line="19" column="1" />
+      <Breakpoint file="C:\Users\nick\Downloads\finalProjectData\finalProject\staffPage.xaml.cs" line="20" column="1" />
+      <Breakpoint file="C:\Users\nick\Downloads\finalProjectData\finalProject\staffPage.xaml.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

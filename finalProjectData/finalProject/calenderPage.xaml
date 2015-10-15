@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="finalProject.calenderPage">
+	<ContentPage.Content>
+	<StackLayout>
+	<Image Source="calender.jpe" HorizontalOptions="Center"/>
+	<Label Text="4:00 Level5 Myercentre"/>
+	<Button Text="toStaff" Clicked="ButtonToStaff"/>
+	<Button Text="toLocation" Clicked="ButtonToLocation"/>
+	</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

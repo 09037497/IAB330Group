@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="finalProject.loginPage">
+	<ContentPage.Content>
+	<StackLayout Padding="20">
+		<Label Text="Meta" FontFamily="Verdana" FontSize="36" FontAttributes="Bold" TextColor="Lime" HorizontalOptions="Center"/> 
+  		<Label Text = "Interaction" FontFamily = "Times New Roman" FontAttributes="Bold" TextColor = "Black" HorizontalOptions="Center"/>
+		<Entry x:Name="username"
+				Placeholder = "user name" 
+				WidthRequest="150"
+				BackgroundColor="Green"/>
+		<Entry x:Name="password"
+				Placeholder = "password"
+				WidthRequest="150"
+				BackgroundColor="Green"/>
+		<Button x:Name="login"
+				Text="Log in"
+				BackgroundColor="Maroon"
+				HorizontalOptions="Center" 
+				Clicked = "onClicked"/>
+		<Button Image="icon.png"/>
+		<Label Text="fingerprint" Font ="10"/>
+	</StackLayout>
+
+	</ContentPage.Content>
+</ContentPage>

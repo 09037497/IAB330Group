@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 xmlns:local="clr-namespace:TodoShared;assembly=TodoShared"
+			 x:Class="Todo.FirstPage"
+			 BackgroundColor="Aqua"
+			 Title="Wellcome to MetaInteraction">
+
+
+	
+
+		<StackLayout VerticalOptions="Center">	
+				<Image Source="Company.jpg" Opacity="0.20"  />
+				<BoxView Color="Aqua"/> 
+				<BoxView Color="Aqua"/> 
+				<Button Text="Hello, Mike!" IsEnabled="true" Clicked="try1" BorderWidth="2" BackgroundColor="Gray"  BorderColor="Gray" />	
+
+				 </StackLayout>
+
+
+        
+        	
+
+
+</ContentPage>
+
+<!---
+
+
+				<Image Source="earth.jpg" 
+					   Opacity="0.50"  />
+  <Image Source="sun.png" 
+		 		
+		 		BackgroundColor="Aqua"
+		 		Opacity="0.50"
+		 		HeightRequest="5" 
+		 		WidthRequest="15"/>
+		
+
+ <StackLayout VerticalOptions="Center">	
+ </StackLayout>
+
+ <Label Text="Welcome to MetaInteraction" TextColor="Yellow" FontSize="100" Font="Bold,Italic, Large" VerticalOptions="Center" HorizontalOptions="Center"/>
+
+
+
+   <Image Source="Company.jpg" 
+		 		Aspect="Fill"
+		 		BackgroundColor="Aqua"
+		 		Opacity="0.1"
+		 		HeightRequest="5" 
+		 		WidthRequest="15"/>
+
+
+ Aspect="AspectFill"
+
+
+
+
+
+			   <ContentPage.Padding>
+				    <OnPlatform x:TypeArguments="Thickness" iOS="0, 20, 0, 0" />			                
+			   </ContentPage.Padding>
+
+		<StackLayout VerticalOptions="Center">				
+				<Label Text="Welcome to MetaInteraction" TextColor="Blue" FontSize="100" Font="Bold,Italic, Large" VerticalOptions="Center" HorizontalOptions="Center"/>
+		
+
+		<Button Text="MetaInteraction" IsEnabled="true" Clicked="try1" BorderColor="Lime" />
+	<BoxView Color="white"/> 
+				<BoxView Color="white"/> 
+
+
+-->

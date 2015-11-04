@@ -1,0 +1,14 @@
+/Users/Millie/Desktop/IAB330/未命名文件夹/test/Xamarin.Forms.CalendarSampleApp/Xamarin.Forms.CalendarSampleApp/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/Millie/Desktop/IAB330/未命名文件夹/test/Xamarin.Forms.CalendarSampleApp/Xamarin.Forms.CalendarSampleApp/bin/Release/Xamarin.Forms.Core.dll
+/Users/Millie/Desktop/IAB330/未命名文件夹/test/Xamarin.Forms.CalendarSampleApp/Xamarin.Forms.CalendarSampleApp/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/Millie/Desktop/IAB330/未命名文件夹/test/Xamarin.Forms.CalendarSampleApp/Xamarin.Forms.CalendarSampleApp/bin/Release/Xamarin.Forms.Platform.dll
+/Users/Millie/Desktop/IAB330/未命名文件夹/test/Xamarin.Forms.CalendarSampleApp/Xamarin.Forms.CalendarSampleApp/bin/Release/mscorlib.dll
+/Users/Millie/Desktop/IAB330/未命名文件夹/test/Xamarin.Forms.CalendarSampleApp/Xamarin.Forms.CalendarSampleApp/bin/Release/System.Core.dll
+/Users/Millie/Desktop/IAB330/未命名文件夹/test/Xamarin.Forms.CalendarSampleApp/Xamarin.Forms.CalendarSampleApp/bin/Release/System.dll
+/Users/Millie/Desktop/IAB330/未命名文件夹/test/Xamarin.Forms.CalendarSampleApp/Xamarin.Forms.CalendarSampleApp/bin/Release/System.Linq.Queryable.dll
+/Users/Millie/Desktop/IAB330/未命名文件夹/test/Xamarin.Forms.CalendarSampleApp/Xamarin.Forms.CalendarSampleApp/bin/Release/System.Diagnostics.Tools.dll
+/Users/Millie/Desktop/IAB330/未命名文件夹/test/Xamarin.Forms.CalendarSampleApp/Xamarin.Forms.CalendarSampleApp/bin/Release/System.ComponentModel.EventBasedAsync.dll
+/Users/Millie/Desktop/IAB330/未命名文件夹/test/Xamarin.Forms.CalendarSampleApp/Xamarin.Forms.CalendarSampleApp/bin/Release/System.Net.Primitives.dll
+/Users/Millie/Desktop/IAB330/未命名文件夹/test/Xamarin.Forms.CalendarSampleApp/Xamarin.Forms.CalendarSampleApp/bin/Release/System.Net.Requests.dll
+/Users/Millie/Desktop/IAB330/未命名文件夹/test/Xamarin.Forms.CalendarSampleApp/Xamarin.Forms.CalendarSampleApp/bin/Release/System.Net.NetworkInformation.dll
+/Users/Millie/Desktop/IAB330/未命名文件夹/test/Xamarin.Forms.CalendarSampleApp/Xamarin.Forms.CalendarSampleApp/bin/Release/System.Text.RegularExpressions.dll

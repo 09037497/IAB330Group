@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Android/Xamarin.Forms.CalendarSampleApp.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Xamarin_Android_API_21" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.Forms.CalendarSampleApp/App.cs">
+    <Files>
+      <File FileName="Android/MainActivity.cs" Line="3" Column="14" />
+      <File FileName="Xamarin.Forms.CalendarSampleApp/App.cs" Line="3" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>..\Xamarin.Forms.Calendar\Xamarin.Forms.Calendar.Platform.iOS\Xamarin.Forms.Calendar.Platform.iOS.csproj</String>
+    <String>..\Xamarin.Forms.Calendar\Xamarin.Forms.Calendar.Platform.WP\Xamarin.Forms.Calendar.Platform.WP.csproj</String>
+  </DisabledProjects>
+</Properties>

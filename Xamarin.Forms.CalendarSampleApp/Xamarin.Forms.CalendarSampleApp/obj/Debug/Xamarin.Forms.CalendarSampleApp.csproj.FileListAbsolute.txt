@@ -1,0 +1,11 @@
+C:\Users\nick\Desktop\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.CalendarSampleApp.dll
+C:\Users\nick\Desktop\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.CalendarSampleApp.pdb
+C:\Users\nick\Desktop\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.Calendar.dll
+C:\Users\nick\Desktop\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\nick\Desktop\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\nick\Desktop\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.Calendar.pdb
+C:\Users\nick\Desktop\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\nick\Desktop\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\nick\Desktop\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\obj\Debug\Xamarin.Forms.CalendarSampleApp.csprojResolveAssemblyReference.cache
+C:\Users\nick\Desktop\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\obj\Debug\Xamarin.Forms.CalendarSampleApp.dll
+C:\Users\nick\Desktop\Xamarin.Forms.Calendar-master\Xamarin.Forms.CalendarSampleApp\Xamarin.Forms.CalendarSampleApp\obj\Debug\Xamarin.Forms.CalendarSampleApp.pdb

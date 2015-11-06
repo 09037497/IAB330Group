@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Android/Todo.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Xamarin_Android_API_15" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Todo/Views/MainView.cs">
+    <Files>
+      <File FileName="Todo/Views/MainView.cs" Line="25" Column="35" />
+      <File FileName="Todo/Views/TodoListPage.cs" Line="91" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

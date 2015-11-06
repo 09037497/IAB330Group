@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 xmlns:local="clr-namespace:TodoShared;assembly=TodoShared"
+			 x:Class="Todo.Contactus"
+			 BackgroundColor="Aqua"
+			 Title="Contactus">
+
+
+	
+
+		<StackLayout VerticalOptions="Center">	
+				<Image Source="pcrepair2.png" Opacity="0.70" />
+				<BoxView Color="Aqua"/> 
+				<Label Text="Contact Us"/>
+				<Label Text="Web:www.MetaInteraction.com"/>
+				<Label Text="Address: QUT Gardens Point Rd, Brisbane, QLD4109"/>
+				<Label Text="Phone:999-999-999"/>
+
+
+		</StackLayout>
+
+
+        
+        	
+
+
+</ContentPage>
